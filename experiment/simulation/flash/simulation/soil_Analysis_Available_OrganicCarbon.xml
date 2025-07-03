@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="Intro05">
+	<TEXT ID="Intro05_one">
+	<TEXTVALUE>Click on each apparatus/reagents to know its name or click on “Continue” to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="415balanc">
+	<TEXT ID="415balanc_one">
+	<TEXTVALUE>Place a butter paper in the electronic balance and Tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="416dropsoil">
+	<TEXT ID="416dropsoil_one">
+	<TEXTVALUE>1 g soil is weighed using electronic balance. Using a spatula transfer some soil into the butter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="417tkit">
+	<TEXT ID="417tkit_one">
+	<TEXTVALUE>Take the butter paper contain soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="418dropflask">
+	<TEXT ID="418dropflask_one">
+	<TEXTVALUE>Transfer the soil into the 500 ml conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="419dropinjar">
+	<TEXT ID="419dropinjar_one">
+	<TEXTVALUE>Measure 10 mL 1N K₂Cr₂O7 solution</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="420tkjar">
+	<TEXT ID="420tkjar_one">
+	<TEXTVALUE>Measure 10 mL 1N K₂Cr₂O7  solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="421tkfordrop">
+	<TEXT ID="421tkfordrop_one">
+	<TEXTVALUE>Transfer the solution into the standard flask containing soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="422tkit02">
+	<TEXT ID="422tkit02_one">
+	<TEXTVALUE>Transfer the solution into the standard flask containing soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="423shakit">
+	<TEXT ID="423shakit_one">
+	<TEXTVALUE>Shake well to mix it well. And keep it back.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="424tkH²so4">
+	<TEXT ID="424tkH²so4_one">
+	<TEXTVALUE>Then add 20 mL Con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4252so4pour">
+	<TEXT ID="4252so4pour_one">
+	<TEXTVALUE>Transfer this Con. H₂SO₄ into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="426tkforshak">
+	<TEXT ID="426tkforshak_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="427tkforshak">
+	<TEXT ID="427tkforshak_one">
+	<TEXTVALUE>Swirl the conical flask 2 or 3 times to mix it.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="427tkforshak_two">
+	<TEXTVALUE>Allow the flask to stand for 30 minutes on an asbestos sheet for the reaction to complete.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="428tkbotl">
+	<TEXT ID="428tkbotl_one">
+	<TEXTVALUE>Measure 200 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="429filusebotl">
+	<TEXT ID="429filusebotl_one">
+	<TEXTVALUE>Measure 200 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="430filusebotl">
+	<TEXT ID="430filusebotl_one">
+	<TEXTVALUE>Pour 200 mL of water to the flask to dilute the suspension.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4312so4pou">
+	<TEXT ID="4312so4pou_one">
+	<TEXTVALUE>Pour 200 mL of water to the flask to dilute the suspension.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="432replacit">
+	<TEXT ID="432replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="433tkforshak03">
+	<TEXT ID="433tkforshak03_one">
+	<TEXTVALUE>Allow the flask to stand for 30 minutes on an asbestos sheet for the reaction to complete.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="435placfanal">
+	<TEXT ID="435placfanal_one">
+	<TEXTVALUE>Filter if it is expected that the end point of the titration is not to be clear.Filter the suspension using funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="436placfanal">
+	<TEXT ID="436placfanal_one">
+	<TEXTVALUE>Collect the filtrate in in a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="437placflask">
+	<TEXT ID="437placflask_one">
+	<TEXTVALUE>Collect the filtrate in in a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="438tkforshak04">
+	<TEXT ID="438tkforshak04_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="439dropwrufanal">
+	<TEXT ID="439dropwrufanal_one">
+	<TEXTVALUE>Pour the suspension through a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="440replacit">
+	<TEXT ID="440replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="441tkfromti">
+	<TEXT ID="441tkfromti_one">
+	<TEXTVALUE>Collect the liquid.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="442placflask">
+	<TEXT ID="442placflask_one">
+	<TEXTVALUE>Take the conical flask containing filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="443tkH²so5">
+	<TEXT ID="443tkH²so5_one">
+	<TEXTVALUE>Take 10 mL of 85% H₃PO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="4442phosphoacid">
+	<TEXT ID="4442phosphoacid_one">
+	<TEXTVALUE>To the filtrate add 10 mL of 85% H₃PO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="445replacit03">
+	<TEXT ID="445replacit03_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="446tkdip">
+	<TEXT ID="446tkdip_one">
+	<TEXTVALUE>Add 2-3 drops of diphenylamine indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="447dropti">
+	<TEXT ID="447dropti_one">
+	<TEXTVALUE>Add 2-3 drops of diphenylamine indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="448replacit">
+	<TEXT ID="448replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="449tkburet">
+	<TEXT ID="449tkburet_one">
+	<TEXTVALUE>Titrate using 0.5N Ferrous ammonium Sulphate: Take a clean burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="450FEou">
+	<TEXT ID="450FEou_one">
+	<TEXTVALUE>Rinse and fill the burette using 0.5 N Ferrous Ammonium Sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="451purit">
+	<TEXT ID="451purit_one">
+	<TEXTVALUE>Carefully fill the burette up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="452opnit">
+	<TEXT ID="452opnit_one">
+	<TEXTVALUE>Carefully fill the burette up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="453showzero">
+	<TEXT ID="453showzero_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="454fixonstant">
+	<TEXT ID="454fixonstant_one">
+	<TEXTVALUE>Clamp the burette in the stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="455tkflask">
+	<TEXT ID="455tkflask_one">
+	<TEXTVALUE>Take the conical flask containing filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="456tkadjest">
+	<TEXT ID="456tkadjest_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="457tentovilt">
+	<TEXT ID="457tentovilt_one">
+	<TEXTVALUE>Open the knob of the burette and add Ferrous Ammonium Sulphate drop by drop from the burette to the conical flask. At the end point the colour flashes from violet through blue to bright green. Note the burette reading as 16 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="458blank">
+	<TEXT ID="458blank_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="459tkpotdicromt">
+	<TEXT ID="459tkpotdicromt_one">
+	<TEXTVALUE>Take 1N K₂Cr₂O7 solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="460tkit03">
+	<TEXT ID="460tkit03_one">
+	<TEXTVALUE>Measure 10 mL using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="461onti04">
+	<TEXT ID="461onti04_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="462purinflask">
+	<TEXT ID="462purinflask_one">
+	<TEXTVALUE>And transfer the solution in a clean conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="463replacit">
+	<TEXT ID="463replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="464tkH²so4">
+	<TEXT ID="464tkH²so4_one">
+	<TEXTVALUE>Take 20 mL Con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="465porinkonikal">
+	<TEXT ID="465porinkonikal_one">
+	<TEXTVALUE>And add this Con. H₂SO₄ into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="466reflask">
+	<TEXT ID="466reflask_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="467tktoshk">
+	<TEXT ID="467tktoshk_one">
+	<TEXTVALUE>Swirl the conical flask 2 or 3 times to mix it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="468shk">
+	<TEXT ID="468shk_one">
+	<TEXTVALUE>Swirl the conical flask 2 or 3 times to mix it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="469tkwtr">
+	<TEXT ID="469tkwtr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="470dropin500">
+	<TEXT ID="470dropin500_one">
+	<TEXTVALUE>Measure 200 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+<SCENE ID="471wtr200">
+	<TEXT ID="471wtr200_one">
+	<TEXTVALUE>Measure 200 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="472dropinflak02">
+	<TEXT ID="472dropinflak02_one">
+	<TEXTVALUE>Pour the water into the flask to dilute the suspension.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="473replacit">
+	<TEXT ID="473replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="474tkfla03">
+	<TEXT ID="474tkfla03_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="475shit">
+	<TEXT ID="475shit_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="476tkpho">
+	<TEXT ID="476tkpho_one">
+	<TEXTVALUE>Take 10 mL of 85% H₃PO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="477dropinfla">
+	<TEXT ID="477dropinfla_one">
+	<TEXTVALUE>Transfer this 85% H₃PO₄ into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="478replacjar">
+	<TEXT ID="478replacjar_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="479tkdip">
+	<TEXT ID="479tkdip_one">
+	<TEXTVALUE>Add 2-3 drops of diphenylamine indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="480dripit2-3">
+	<TEXT ID="_one">
+	<TEXTVALUE>Add 2-3 drops of diphenylamine indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="481replacit">
+	<TEXT ID="481replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="482tkfla04">
+	<TEXT ID="482tkfla04_one">
+	<TEXTVALUE>Shake well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="483shit04">
+	<TEXT ID="483shit04_one">
+	<TEXTVALUE>Shake well and keep.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="484tkburet04">
+	<TEXT ID="484tkburet04_one">
+	<TEXTVALUE>Take a clean burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="485FEou03">
+	<TEXT ID="485FEou03_one">
+	<TEXTVALUE>Fill the burette using 0.5 N Ferrous Ammonium Sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="486purit04">
+	<TEXT ID="486purit04_one">
+	<TEXTVALUE>Carefully fill the burette using 0.5 N Ferrous Ammonium Sulphate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="487opnit04">
+	<TEXT ID="487opnit04_one">
+	<TEXTVALUE>Adjust the burette reading up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="488showzero9">
+	<TEXT ID="488showzero9_one">
+	<TEXTVALUE>Adjust the burette reading up to the mark.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="489fixonstant07">
+	<TEXT ID="489fixonstant07_one">
+	<TEXTVALUE>Clamp the burette in the stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="490tkflask05">
+	<TEXT ID="490tkflask05_one">
+	<TEXTVALUE>Take the conical flask containing filtrate.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="491tkadjest04">
+	<TEXT ID="491tkadjest04_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="492tentovilt07">
+	<TEXT ID="492tentovilt07_one">
+	<TEXTVALUE>Open the knob of the burette and add Ferrous Ammonium Sulphate drop by drop from the burette to the conical flask. At the end point the colour flashes from violet through blue to bright green. Note the burette reading as 19.8 ml.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="493calculation">
+	<TEXT ID="493calculation_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
