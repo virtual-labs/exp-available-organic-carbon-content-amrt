@@ -1,1 +1,2 @@
-### To determine the available organic carbon in the soil.
+### Aim of the experiment
+- To determine the available organic carbon in the soil.
