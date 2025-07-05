@@ -56,7 +56,7 @@ While measuring oxidisable Organic Carbon, the data are often converted to perce
 <h3>Significance:</h3>
 <p>
 The term ‘Organic Matter in Soil’ embraces the whole known mineral fraction of soil and consists essentially of a series of products, which range from decayed plant and animal tissues to fairly amorphous brown to black material normally defined as ‘soil humus’.
-</p
+</p>
 
 
   
@@ -73,7 +73,7 @@ The term ‘Organic Matter in Soil’ embraces the whole known mineral fraction 
 Organic matter also contains living and dead microbial tissues, microbially synthesized compound and derivatives of these materials produced as a result of microbial decay.
 
 
-<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"></p></div>
 
 <h2>Role of Soil Organic Matter</h2>
 
