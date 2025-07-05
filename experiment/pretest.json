@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Decayed plant and animal tissues to fairly amorphous brown to black material are called ---------",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Subsoil",
+        "b": "Regolith",
+        "c": "Soil Humus",
+        "d": "Bedrock"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Subsoil is the layer below the topsoil, not decayed organic matter.",
+        "b": "Regolith refers to loose material covering solid rock, not organic.",
+        "c": "Correct. Soil humus is the dark, organic material in soils.",
+        "d": "Bedrock is the solid rock beneath soil layers."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Soil organic matter contains .......Nitrogen.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5 %",
+        "b": "70%",
+        "c": "0.5 %",
+        "d": "not present in soil"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. Organic matter contains around 5% nitrogen.",
+        "b": "Too high; nitrogen is not present at 70% in organic matter.",
+        "c": "Incorrect percentage for nitrogen.",
+        "d": "Nitrogen is present in soil organic matter."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]

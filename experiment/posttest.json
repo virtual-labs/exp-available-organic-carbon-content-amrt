@@ -2,37 +2,54 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following element is not present in the soil organic matter.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "none of these",
+        "b": "Phosphorus",
+        "c": "Sulfur",
+        "d": "Nitrogen"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. All listed elements are present in soil organic matter.",
+        "b": "Phosphorus is present in organic matter.",
+        "c": "Sulfur is also present.",
+        "d": "Nitrogen is present in significant amounts."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is a main significance of soil analysis?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It increases the knowledge of what nutrients are especially available in our soil and the efficiency of resource inputs such as fertilisers and water.",
+        "b": "It increases the environmental impacts due to soil amendments.",
+        "c": "It doesn't helps to evaluate the fertility status of soils of a country or a state or a district.",
+        "d": "It doesn't helps to predict the nutritional values needed for crop production."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct. This is a major benefit of soil analysis.",
+        "b": "Incorrect. Soil analysis reduces environmental impact.",
+        "c": "Incorrect. It helps to evaluate soil fertility.",
+        "d": "Incorrect. It helps predict nutritional requirements."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The term \"Organic Soil\" is used for ...........",
+      "answers": {
+        "a": "Soils with less than 12-18% organic carbon",
+        "b": "Soils with more than 12-18% organic carbon",
+        "c": "Soils with more than 20-25% organic carbon",
+        "d": "Soils with more than 1-10% organic carbon"
+      },
+      "explanations": {
+        "a": "Too low to classify as organic soil.",
+        "b": "Correct. This is the standard threshold.",
+        "c": "Higher than typical threshold, but may still apply in specific classifications.",
+        "d": "Too broad and not standard."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
