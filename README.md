@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Determination of Available Organic Carbon content in the Soil
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
