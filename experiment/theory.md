@@ -62,11 +62,11 @@ The term ‘Organic Matter in Soil’ embraces the whole known mineral fraction 
   
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
 <div style="max-width: 600px;">
-<img src="./images/figure3.jpg" alt="Figure 3" style="width: 100%; height: auto;">
+<img src="./images/figure3.jpg" alt="Figure 3" height="300 px">
 <p style="font-size: smaller; font-style: italic;"></p>
 </div>
 <div style="max-width: 600px;">
-<img src="./images/figure4.jpg" alt="Figure 4" style="width: 100%; height: auto;">
+<img src="./images/figure4.jpg" alt="Figure 4" height="300 px">
 <p style="font-size: smaller; font-style: italic;"></p>
 </div></div>
 
