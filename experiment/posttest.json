@@ -47,7 +47,7 @@
         "a": "Too low to classify as organic soil.",
         "b": "Correct. This is the standard threshold.",
         "c": "Higher than typical threshold, but may still apply in specific classifications.",
-        "d": "Too broad and not standard.",
+        "d": "Too broad and not standard."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
