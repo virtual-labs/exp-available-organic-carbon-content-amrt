@@ -56,4 +56,31 @@ While measuring oxidisable Organic Carbon, the data are often converted to perce
 <h3>Significance:</h3>
 <p>
 The term ‘Organic Matter in Soil’ embraces the whole known mineral fraction of soil and consists essentially of a series of products, which range from decayed plant and animal tissues to fairly amorphous brown to black material normally defined as ‘soil humus’.
+</p
+
+
+  
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; text-align: center;">
+<div style="max-width: 600px;">
+<img src="./images/figure3.jpg" alt="Figure 3" style="width: 100%; height: auto;">
+<p style="font-size: smaller; font-style: italic;"></p>
+</div>
+<div style="max-width: 600px;">
+<img src="./images/figure4.jpg" alt="Figure 4" style="width: 100%; height: auto;">
+<p style="font-size: smaller; font-style: italic;"></p>
+</div></div>
+
+Organic matter also contains living and dead microbial tissues, microbially synthesized compound and derivatives of these materials produced as a result of microbial decay.
+
+
+<div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;"><img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 600px; height: auto;"><p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
+
+<h2>Role of Soil Organic Matter</h2>
+
+<p>
+The role of soil organic matter, in relation to soil fertility and physical conditions. Sources of plant nutrients which are released in assimilated forms during microbial degradation. Soil organic matter contains 5 % Nitrogen, 0.5 % each of Phosphorus and Sulfur. Thereby having the ratio of 10:1. The organic matter of a soil is estimated by the amount of Carbon present, as this element represents on an average, 52-58 % of the organic matter and the C: N ratio is 10-15.
 </p>
+
+
+
+
